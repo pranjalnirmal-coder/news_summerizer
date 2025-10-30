@@ -4,16 +4,6 @@
 This project is part of the **ITA Honors (Natural Language Processing)** coursework at  
 **K. J. Somaiya School of Engineering, Mumbai**.  
 It is a **web-based NLP application** that summarizes news articles and performs **sentiment analysis** using **FastAPI (backend)** and **Streamlit (frontend)**.
-
----
-
-## ⚙️ Project Structure
-news_summerizer/
-│
-├── itaexp8b.py # FastAPI backend for summarization & sentiment analysis
-├── itaexp8f.py # Streamlit frontend for user interface
-├── requirements.txt # Dependencies list (optional)
-└── README.md # Project documentation
 ---
 
 ## ✨ Features
