@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+requests
+transformers
+torch
+sumy
+nltk
+vaderSentiment
